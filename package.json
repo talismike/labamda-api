@@ -1,0 +1,17 @@
+{
+  "name": "labamda-api",
+  "module": "index.js",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "scripts": {
+    "start": "bun --watch index.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}

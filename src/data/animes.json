@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "title": "Naruto",
+    "thumbnail": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=480,height=720/catalog/crunchyroll/8532171bec0d05bfe45769a330fbab82.jpg",
+    "caption": "Naruto Uzumaki es un niño marginado en la aldea ninja en la que vive. En su interior reside el poder de una bestia que estuvo al borde de destruir el pueblo años atrás, el Kyubi, el zorro de nueve colas, lo que hace que nadie quiera acercarse a él por considerarlo maldito. Pese a su soledad y su tristeza, Naruto quiere ser un ninja, pero no uno cualquiera: quiere ser Hokage, el líder de la aldea. En su camino, sus convicciones atraerán a muchos amigos y compañeros de viaje.",
+    "genre": ["Action", "Adventure"],
+    "episodes": 220,
+    "slug": "naruto"
+  },
+  {
+    "id": 2,
+    "title": "Attack on Titan",
+    "thumbnail": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=480,height=720/catalog/crunchyroll/323c82257b2f6567fabbb7bd55bfa753.jpg",
+    "caption": "Muchos años atrás, la humanidad estuvo al borde de la extinción con la aparición de unas criaturas gigantes que devoraban a todas las personas. Huyendo, la humanidad consiguió sobrevivir en una ciudad fortificada de altas murallas que se ha convertido en el último reducto de la civilización contra los Titanes que campan a sus anchas por el mundo. Ahora esa paz está a punto de verse interrumpida por una cadena de acontecimientos que llevará a desvelar qué son los Titanes y cómo aparecieron.",
+    "genre": ["Action", "Drama"],
+    "episodes": 87,
+    "slug": "atack-of-titan"
+  },
+  {
+    "id": 3,
+    "title": "Solo Leveling",
+    "thumbnail": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=480,height=720/catalog/crunchyroll/f2d6d93f5ba4a24bcb3b0d1322a645ff.jpg",
+    "caption": "Lo que no te mata te hace más fuerte, pero en el caso de Sung Jinwoo, lo que lo mató lo hizo más fuerte. Después de ser brutalmente asesinado por monstruos en una mazmorra de alto rango, Jinwoo regresó con el Sistema, un programa que solo él puede ver y que eleva su nivel en todos los sentidos. Ahora, está decidido a descubrir los secretos detrás de sus poderes y la mazmorra que los engendró.",
+    "genre": ["Action", "Adventure", "Fantasy"],
+    "episodes": 14,
+    "slug": "solo-leveling"
+  },
+  {
+    "id": 4,
+    "title": "I'm a Noble on the Brink of Ruin, So I Might as Well Try Mastering Magic",
+    "thumbnail": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=480,height=720/catalog/crunchyroll/68ee58e055903212c075cb9d9e947cef.jpg",
+    "caption": "Mientras disfruta inocentemente después del trabajo, la vida de un hombre cambia para siempre. Se despierta en el cuerpo de Liam Hamilton, el hijo menor de una casa noble al borde de la ruina. En medio del caos, Liam se da cuenta de que finalmente tiene tiempo para aprender y practicar magia. Una vez que comienza, su vida da un giro aún mayor. ¿Podrá Liam dominar la magia y salvar a su noble familia? ¡Comienza la fantasía aristocrática!",
+    "genre": ["Action", "Adventure"],
+    "episodes": 2,
+    "slug": "im-a-noble-on-the-brink-of-ruin-so-i-might-as-well-try-mastering-magic"
+  },
+  {
+    "id": 5,
+    "title": "Possibly the Greatest Alchemist of All Time",
+    "thumbnail": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=480,height=720/catalog/crunchyroll/2288766fe2b9e0f01b44e6aaea4eb3cb.jpg",
+    "caption": "Takumi Iruma termina siendo arrastrado a una invocación heroica, aun cuando él no es ningún héroe. Llamado por error a Mildgard, un mundo fantástico de magia y espadas, Takumi ve en esto la oportunidad de empezar desde cero. Aunque anhela una vida pacífica, la diosa Nolyn le concede la “Alquimia”, una habilidad sumamente poderosa que le permite crear casi cualquier cosa, desde espadas sagradas hasta naves voladoras.",
+    "genre": ["Action", "Adventure", "Fantasy"],
+    "episodes": "2",
+    "slug": "possibly-the-greatest-alchemist-of-all-time"
+  },
+  {
+    "id": 6,
+    "title": "Bogus Skill <<Fruitmaster>> ~About that time I became able to eat unlimited numbers of Skill Fruits (that kill you)~",
+    "thumbnail": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=480,height=720/catalog/crunchyroll/eefadc473698c7f6a1e8b53b820f24e7.jpg",
+    "caption": "En un mundo en el que las Frutas de Habilidad otorgan poderes, el aspirante a aventurero Light está condenado a tener la inservible habilidad <<Fruitmaster>>. Comer otra fruta es mortal, así que no hay segundas oportunidades. Mientras tanto, su amiga de la infancia Rena asciende rápidamente al Rango S. Sin embargo, cuando Light come por accidente una segunda Fruta de Habilidad, sobrevive y descubre su verdadero poder: ¡puede comer todas las Frutas de Habilidad que quiera y obtener sus habilidades!",
+    "genre": ["Action", "Adventure", "Fantasy", "Drama"],
+    "episodes": 3,
+    "slug": "bogus-skill-fruitmaster-about-that-time-i-became-able-to-eat-unlimited-numbers-of-skill-fruits-that-kill-you"
+  }
+]
